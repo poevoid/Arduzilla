@@ -1,5 +1,7 @@
 # Arduzilla [wip] [v1.0]
-### A work in progress city destruction game for the Arduboy
+### A work in progress city destruction game for the Arduboy 
+
+Original version written by Cody Mason and can be found here : https://github.com/CodyMason/Arduzilla
 
 ## Current Features:
 - Basic Tilemap Drawing
