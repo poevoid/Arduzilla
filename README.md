@@ -10,7 +10,9 @@ Original version written by Cody Mason and can be found here : https://github.co
 - Camera Scrolling
 - Destroyable Buildings
 - Points System
+- Title, Win, Lose screen
 - Theme Music, Win Music, Lose music
+
 
 ## Todo:
 -  <strike> Add Building Objects </strike>
